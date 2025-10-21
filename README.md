@@ -108,23 +108,6 @@ Businesses, media, and individuals struggle to **distinguish truth from syntheti
 
 ---
 
-## 📊 Example Output
-
-```json
-{
-  "file": "video_clip.mp4",
-  "type": "video",
-  "deepfake_score": 0.12,
-  "fact_accuracy": 0.89,
-  "source_trust": 0.92,
-  "final_trust_index": 91,
-  "status": "authentic",
-  "report_link": "https://sudarshan.app/report/0xABC123"
-}
-```
-
----
-
 ## 🧠 AI Agent Design
 
 | Agent                    | Role                                            | Model / Tools                       |
@@ -138,12 +121,11 @@ Businesses, media, and individuals struggle to **distinguish truth from syntheti
 
 ## 🧭 Development Roadmap
 
-| Phase                  | Duration       | Focus                                                 |
-| ---------------------- | -------------- | ----------------------------------------------------- |
-| 🧩 **MVP (Hackathon)** | 2–3 Weeks      | Source Analyzer, Deepfake Detection, Trust Report     |
-| ⚡ **Phase 2**         | +1 Month       | Add Fact Validator + Blockchain Trust Record          |
-| 🌐 **Phase 3**         | +2–3 Months    | Public API, SDK, Chrome Plugin for media verification |
-| 🏢 **Phase 4**         | Startup Launch | Enterprise compliance + legal audit integrations      |
+| Phase                  | Duration    | Focus                                                 |
+| ---------------------- | ----------- | ----------------------------------------------------- |
+| 🧩 **MVP (Hackathon)** | 2–3 Weeks   | Source Analyzer, Deepfake Detection, Trust Report     |
+| ⚡ **Phase 2**         | +1 Month    | Add Fact Validator + Blockchain Trust Record          |
+| 🌐 **Phase 3**         | +2–3 Months | Public API, SDK, Chrome Plugin for media verification |
 
 ---
 
